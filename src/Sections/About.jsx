@@ -1,5 +1,7 @@
 import Section from '../Components/Section';
 import first from '../assets/first.png';
+import second from '../assets/second.png';
+import third from '../assets/third.png';
 
 const About = () => {
   return (
@@ -48,7 +50,7 @@ const About = () => {
             </div>
             <figure className="w-full md:w-3/4 mx-auto">
               <img
-                src={first}
+                src={second}
                 alt="Magic Bot demonstration"
                 className="w-auto rounded-lg shadow-lg"
               />
@@ -59,7 +61,7 @@ const About = () => {
           <div className="w-full grid md:grid-cols-2 items-center gap-8 my-4 p-4 bg-slate-200">
             <figure className="w-full md:w-3/4 mx-auto">
               <img
-                src={first}
+                src={third}
                 alt="Magic Bot performing automation"
                 className="w-auto rounded-lg shadow-lg"
               />
