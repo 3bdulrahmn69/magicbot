@@ -25,7 +25,7 @@ const Download = () => {
         <div className="w-full md:w-1/2 text-center md:text-left">
           <div className="flex flex-col gap-4 items-center md:items-start">
             <a
-              href="https://www.mediafire.com/file/slwudn6kttg6uos/magicBot.rar/file"
+              href="https://www.mediafire.com/file/0xucdcn1wusrcb1/Magic_Bot.rar/file"
               className="px-6 py-3 bg-blue-600 text-white rounded-lg shadow-lg hover:bg-blue-700 transition duration-300 text-center w-64"
               target="_blank"
               rel="noopener noreferrer"
